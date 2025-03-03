@@ -1,2 +1,19 @@
-# LongSiMSM
-Code repository for 'Exact Simulation of Longitudinal Data from Marginal Structural Models' (Lin et al., 2025)
+# LongSiMSM: Exact Simulation of Longitudinal Data from Marginal Structural Models  
+
+This repository contains R code for implementing the simulation study described in the following paper:  
+
+**Lin et al. (2025). "Exact Simulation of Longitudinal Data from Marginal Structural Models."**  
+*(Preprint / Journal Name TBD)*  
+
+## 📄 Paper Reference  
+
+Lin et al. (2025). **Exact Simulation of Longitudinal Data from Marginal Structural Models.**  
+
+📌 **Preprint :** [[]](https://arxiv.org/pdf/2502.07991)  
+
+## 🔧 Requirements  
+
+This project is implemented in **R**. To run the simulations, ensure you have the following packages installed:  
+
+```r
+install.packages(c("copula", "data.table"))  
