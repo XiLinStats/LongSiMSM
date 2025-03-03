@@ -3,13 +3,11 @@
 This repository contains R code for implementing the simulation study described in the following paper:  
 
 **Lin et al. (2025). "Exact Simulation of Longitudinal Data from Marginal Structural Models."**  
-*(Preprint / Journal Name TBD)*  
-
 ## 📄 Paper Reference  
 
 Lin et al. (2025). **Exact Simulation of Longitudinal Data from Marginal Structural Models.**  
 
-📌 **Preprint :** [[]](https://arxiv.org/pdf/2502.07991)  
+📌 **Preprint :** [[https://arxiv.org/pdf/2502.07991]](https://arxiv.org/pdf/2502.07991)  
 
 ## 🔧 Requirements  
 
