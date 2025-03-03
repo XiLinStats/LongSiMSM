@@ -1,8 +1,6 @@
 # LongSiMSM: Exact Simulation of Longitudinal Data from Marginal Structural Models  
 
-This repository contains R code for implementing the simulation study described in the following paper:  
-
-**Lin et al. (2025). "Exact Simulation of Longitudinal Data from Marginal Structural Models."**  
+This repository contains R code for implementing the simulation studies described in  "Exact Simulation of Longitudinal Data from Marginal Structural Models."
 ## 📄 Paper Reference  
 
 Lin et al. (2025). **Exact Simulation of Longitudinal Data from Marginal Structural Models.**  
